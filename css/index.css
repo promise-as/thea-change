@@ -1,0 +1,7 @@
+input { appearance: none; -moz-appearance: none; -webkit-appearance: none; }
+input::-webkit-input-placeholder { color: #cbcbcb; font-size: inherit; }
+input:-moz-placeholder { color: #cbcbcb; font-size: inherit; }
+input::-moz-placeholder { color: #cbcbcb; font-size: inherit; }
+input:-ms-input-placeholder { color: #cbcbcb; font-size: inherit; }
+
+/*# sourceMappingURL=index.css.map */

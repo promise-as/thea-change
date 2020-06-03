@@ -1,0 +1,37 @@
+input {
+  appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  &::-webkit-input-placeholder {
+    color: #cbcbcb;
+    font-size: inherit;
+  }
+  &:-moz-placeholder {
+    color: #cbcbcb;
+    font-size: inherit;
+  }
+  &::-moz-placeholder {
+    color: #cbcbcb;
+    font-size: inherit;
+  }
+  &:-ms-input-placeholder {
+    color: #cbcbcb;
+    font-size: inherit;
+  }
+}
+%in-b {
+  display: inline-block;
+  *zoom: 1;
+  *display: inline;
+}
+%clearfix {
+  zoom: 1;
+  &:after {
+    clear: both;
+  }
+  &:before,
+  &:after {
+    content: "";
+    display: table;
+  }
+}

@@ -83,8 +83,9 @@ input:-ms-input-placeholder { color: #cbcbcb; font-size: inherit; }
 .teachers3 .w-r li::before { content: "Q"; width: 16px; height: 16px; line-height: 16px; background-image: linear-gradient(0deg, #5a85f6 0%, #658fff 100%), linear-gradient(#5a85f6, #5a85f6); background-blend-mode: normal, normal; box-shadow: 0px 5px 14px 0px rgba(43, 84, 190, 0.15); border-radius: 2px; font-size: 12px; color: #ffffff; text-align: center; margin-right: 8px; }
 .teachers3 .w-r a { width: 100%; height: 32px; line-height: 32px; background-color: #f62053; border-radius: 16px; font-size: 15px; font-weight: bold; color: #ffffff; text-align: center; }
 
+.teachers4 { margin-bottom: 20px; }
 .teachers4 .t4-title { height: 56px; line-height: 56px; background-image: linear-gradient(0deg, #5a85f6 0%, #658fff 100%), linear-gradient(#f62053, #f62053); background-blend-mode: normal, normal; font-size: 20px; font-weight: bold; color: #ffffff; margin-bottom: 10px; }
-.teachers4 li { width: 106px; margin: 0 8px; }
+.teachers4 li { width: 106px; margin: 0 5px; }
 .teachers4 li > img { width: 100%; height: 106px; margin-bottom: 10px; }
 .teachers4 .i-n { font-size: 16px; line-height: 26px; font-weight: bold; color: #333333; margin-bottom: 5px; }
 .teachers4 .i-t { font-size: 16px; line-height: 26px; font-weight: bold; color: #333333; white-space: nowrap; margin-bottom: 5px; }
@@ -92,7 +93,7 @@ input:-ms-input-placeholder { color: #cbcbcb; font-size: inherit; }
 .teachers4 a { padding: 0 18px; height: 32px; line-height: 32px; background-color: #f62053; border-radius: 16px; font-size: 14px; color: #ffffff; }
 .teachers4 .t-l { float: left; margin-right: 20px; text-align: center; }
 .teachers4 .t-l .t4-title span { padding-left: 39px; background: url(../images/p.png) no-repeat left center; }
-.teachers4 .t-r { float: left; width: 524px; text-align: center; }
+.teachers4 .t-r { float: left; text-align: center; }
 .teachers4 .t-r .t4-title span { padding-left: 31px; background: url(../images/t.png) no-repeat left center; }
 
 /*# sourceMappingURL=index.css.map */
